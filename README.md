@@ -14,7 +14,7 @@ El objetivo del análisis es contrastar la brecha salarial entre hombres y mujer
 
 ## Ficheros
 
- - **msosvilla_PRAC2-Limpieza_y_analisis.Rmd**: fichero R Markdown en el que se realizan las las diferentes tareas a realizar.
+ - **msosvilla_PRAC2-Limpieza_y_analisis.Rmd**: fichero R Markdown en el que se realizan las diferentes tareas a realizar.
 
  - **msosvilla_PRAC2-Limpieza_y_analisis.html**: Exportación en formato html del fichero R Markdown.
 
